@@ -39,9 +39,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nursefly/react-file-viewer.git/issues"
+    "url": "https://github.com/nursefly/react-file-viewer/issues"
   },
-  "homepage": "https://github.com/nursefly/react-file-viewer.git#readme",
+  "homepage": "https://github.com/nursefly/react-file-viewer#readme",
   "devDependencies": {
     "autoprefixer": "^7.1.0",
     "babel-core": "^6.24.1",
